@@ -4,3 +4,6 @@ var spaceSmell = "Burnt Steak"
 var suns = 1
 var earthMoons = 1
 var spaceJunk = 30000
+var spaceBig = true
+var asteroidInbound = false
+var universeExpanding = true
